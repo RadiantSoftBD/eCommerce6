@@ -10044,3 +10044,9 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+.img-circle{
+  width: 180px;
+}
+.gap{
+  margin-bottom: 35px;
+}
